@@ -1,0 +1,38 @@
+.btn{
+  position:relative;
+  
+  padding:8px;
+  width:90px;
+  border-radius:6px;
+  box-shadow: 1px 1px 2px grey,-1px -1px 2px grey;
+  font-family:"itim";
+  margin:10px;
+  font-size:1em;
+  left:6px;
+}
+#numbox{
+  font-size:4em;
+  position: relative;
+  margin:0;
+  text-align:center;
+  top:100px;
+  font-family:"monospace";
+}
+#increase{
+  background:linear-gradient(to left,green,white)
+}
+#reset{
+  
+}
+#decrease{
+  background:linear-gradient(to right,orange,white)
+}
+#whole{
+  background:linear-gradient(to bottom,  #7B93FF , orange);
+  height:555px;
+  border:3px solid #E21BCD;
+  margin-top:83px;
+  margin-left:8px;
+  margin-right:13px;
+  border-radius:20px;
+}
